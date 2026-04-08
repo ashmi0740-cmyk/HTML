@@ -1,0 +1,19 @@
+<doctype html>
+<html>
+<head>
+<style>
+#gred1 {
+heght:400px;
+background-color: red; /* for brousers that do not support gradients*/
+background-image: linear-gradient(to top right red ,orange, yellow, gerrn, blue)
+}
+</style>
+</head>
+<body>
+<div id="grand1" style="text-align:center:margin:auto;color#888888;front-
+size;40px;font-weight:bold">
+welcome to coding
+</div>
+
+</body>
+</html>
